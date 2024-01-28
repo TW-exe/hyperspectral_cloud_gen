@@ -1,0 +1,13 @@
+
+# Ignore build directories
+
+# .gitignore
+preprocess_results/png/bands432/LC09_L1TP_039025_20230417_20230417_02_T1_rgb.png
+
+# all numpy data sets ignore
+npFiles/*
+
+
+# ignore dataset
+/datasets/Landsat-9-Level-1/products/LC09_L1TP_114063_20240112_20240112_02_T1
+/datasets/Landsat-9-Level-1/products/LC09_L1TP_063046_20221202_20230319_02_T1
