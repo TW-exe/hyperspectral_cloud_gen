@@ -3,6 +3,7 @@
 
 # .gitignore
 preprocess_results/png/bands432/*
+!preprocess_results/png/bands432/
 
 # all numpy data sets ignore
 npFiles/*
